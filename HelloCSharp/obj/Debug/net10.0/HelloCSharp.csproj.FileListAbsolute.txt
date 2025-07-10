@@ -1,0 +1,14 @@
+/Users/gim-yeseong/HelloCSharp/bin/Debug/net10.0/HelloCSharp
+/Users/gim-yeseong/HelloCSharp/bin/Debug/net10.0/HelloCSharp.deps.json
+/Users/gim-yeseong/HelloCSharp/bin/Debug/net10.0/HelloCSharp.runtimeconfig.json
+/Users/gim-yeseong/HelloCSharp/bin/Debug/net10.0/HelloCSharp.dll
+/Users/gim-yeseong/HelloCSharp/bin/Debug/net10.0/HelloCSharp.pdb
+/Users/gim-yeseong/HelloCSharp/obj/Debug/net10.0/HelloCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gim-yeseong/HelloCSharp/obj/Debug/net10.0/HelloCSharp.AssemblyInfoInputs.cache
+/Users/gim-yeseong/HelloCSharp/obj/Debug/net10.0/HelloCSharp.AssemblyInfo.cs
+/Users/gim-yeseong/HelloCSharp/obj/Debug/net10.0/HelloCSharp.csproj.CoreCompileInputs.cache
+/Users/gim-yeseong/HelloCSharp/obj/Debug/net10.0/HelloCSharp.dll
+/Users/gim-yeseong/HelloCSharp/obj/Debug/net10.0/refint/HelloCSharp.dll
+/Users/gim-yeseong/HelloCSharp/obj/Debug/net10.0/HelloCSharp.pdb
+/Users/gim-yeseong/HelloCSharp/obj/Debug/net10.0/HelloCSharp.genruntimeconfig.cache
+/Users/gim-yeseong/HelloCSharp/obj/Debug/net10.0/ref/HelloCSharp.dll
